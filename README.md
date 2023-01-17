@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Profile views](https://gpvc.arturio.dev/[is-this-echo])
+![Profile views](https://gpvc.arturio.dev/is-this-echo)
 
 <!--
 **Devil-Echo/Devil-Echo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
