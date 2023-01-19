@@ -11,6 +11,10 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
+
+![Profile views](https://gpvc.arturio.dev/is-this-echo)
+
 <!-- 
 
 ### Languages and Tools:
@@ -44,5 +48,5 @@
 [twitter]: https://twitter.com/is_this_echo
 [linkedin]: https://www.linkedin.com/in/debjyoti-ghosh-a89b45199/
 
-![Profile views](https://gpvc.arturio.dev/is-this-echo)
+
 
