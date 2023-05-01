@@ -2,7 +2,7 @@
 
 
 ## I'm a Developer, and Engineer!
-- 💻 I’m currently employeed at Standard Chartered GBS as a Backend Software Developer 
+- 💻 I’m currently employed at Standard Chartered GBS as a Backend Software Developer 
 - 👯 I’m open to collaborate with other developers
 
 
