@@ -32,7 +32,7 @@
 ## 📝 Blogs
 
 - Personal website: https://is-this-echo.github.io/debjyoti.dev/
-- Dev blog: https://is-this-echo.github.io/
+- Dev blog: https://is-this-echo.github.io/tech-blog/
 
 [twitter]: https://twitter.com/is_this_echo
 [linkedin]: https://www.linkedin.com/in/debjyoti-ghosh/
